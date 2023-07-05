@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.blue{
+    color: blue;
+    cursor: url("https://w7.pngwing.com/pngs/86/446/png-transparent-heart-heart-thumbnail.png"),auto;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.box{
+    padding: 20px;
+    background-color: red;
+    width: 110px;
+}
+.box2{
+    margin: 20px;
+    background-color: rgb(63, 99, 10);
+}
+.box3{
+    background-color: rgb(50, 47, 255);
+}
